@@ -13,6 +13,8 @@ Please download the dataset 'renttherunway_final_data.json' from https://www.kag
 
 Please also download the files 'bust_size chart.xlsx' and 'Inches to Centimeter.xlsx'
 
+After downloading the datasets, place them in the same directory as 'Predicting Clothing Size With Regression.ipynb' and open the .ipynb file in Jupyter Notebook.
+
 Packages required:
 Pandas, numpy, sklearn, statsmodels, matplotlib
 
