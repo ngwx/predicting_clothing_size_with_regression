@@ -16,5 +16,5 @@ Please also download the files 'bust_size chart.xlsx' and 'Inches to Centimeter.
 After downloading the datasets, place them in the same directory as 'Predicting Clothing Size With Regression.ipynb' and open the .ipynb file in Jupyter Notebook.
 
 Packages required:
-Pandas, numpy, sklearn, statsmodels, matplotlib
+pandas, numpy, sklearn, statsmodels, matplotlib
 
