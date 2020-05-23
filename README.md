@@ -6,6 +6,7 @@ Linear Regression and KNN Regression models will be used in this project to pred
 Jupyter Notebook is needed to run the file.
 
 Please download the dataset from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
+
 Please also download the files 'bust_size chart.xlsx' and 'Inches to Centimeter.xlsx'
 
 Packages required:
