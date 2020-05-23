@@ -3,6 +3,8 @@ This project aims to predict the clothing size of a customer using the renttheru
 
 Linear Regression and KNN Regression models will be used in this project to predict the dress size of customers in order to alleviate the problem of online purchases being not fitting. By alleviating this issue, the business will not only receive better reviews on their site but it will also save on costs associated with returns.
 
+The process consists of 3 components: Data Cleaning, Exploratory Data Analysis and Application of the Linear and KNN Regression models.
+
 Jupyter Notebook is needed to run the file.
 
 Please download the dataset from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
