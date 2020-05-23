@@ -7,7 +7,7 @@ The process consists of 3 components: Data Cleaning, Exploratory Data Analysis a
 
 Jupyter Notebook is needed to run the file.
 
-Please download the dataset from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
+Please download the dataset 'renttherunway_final_data.json' from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
 
 Please also download the files 'bust_size chart.xlsx' and 'Inches to Centimeter.xlsx'
 
