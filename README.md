@@ -5,7 +5,7 @@ Linear Regression and KNN Regression models will be used in this project to pred
 
 The process consists of 3 components: Data Cleaning, Exploratory Data Analysis and Application of the Linear and KNN Regression models.
 
-Jupyter Notebook is needed to run the file.
+Python and Jupyter Notebook are required to run the file.
 
 Please download the dataset 'renttherunway_final_data.json' from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
 
