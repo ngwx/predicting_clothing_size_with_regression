@@ -15,12 +15,12 @@ How to use:
 
 1. Please download the dataset 'renttherunway_final_data.json' from https://www.kaggle.com/rmisra/clothing-fit-dataset-for-size-recommendation#renttherunway_final_data.json
 
-2. Please also download the files 'bust_size chart.xlsx' and 'Inches to Centimeter.xlsx'
+2. Please download the project files (Clone or download button in green >> Click Download ZIP) and unzip them.
 
 3. Install the required packages. Packages required: pandas, numpy, sklearn, statsmodels, matplotlib
 
 4. After downloading the datasets, place them in the same directory as 'Predicting Clothing Size With Regression.ipynb' and open the .ipynb file in Jupyter Notebook.
 
-5. Alternatively, if you can view the code without downloading the files by viewing the html document.
+5. Alternatively, if you can view the code without downloading the files by viewing the html document (Predicting Clothing Size With Regression.html).
 
 
