@@ -21,6 +21,6 @@ How to use:
 
 4. After downloading the datasets, place them in the same directory as 'Predicting Clothing Size With Regression.ipynb' and open the .ipynb file in Jupyter Notebook.
 
-5. Alternatively, if you can view the code without downloading the files by viewing the html document (Predicting Clothing Size With Regression.html).
+5. Alternatively, you can view the code by viewing the html document (Predicting Clothing Size With Regression.html).
 
 
